@@ -10,3 +10,4 @@ public class PortfolioConsoleApplication {
         SpringApplication.run(PortfolioConsoleApplication.class, args);
     }
 }
+
