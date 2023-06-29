@@ -1,0 +1,37 @@
+[
+  {
+    "language": "Java",
+    "skillsDescription": ["Conception et développement d'applications Java", "Gestion avancée des exceptions", "Utilisation des frameworks", "Utilisation de Maven pour la gestion des dépendances"],
+    "frameworks": ["Swing", "JavaFX", "Spring Framework", "Selenium"]
+  },
+  {
+    "language": "Angular",
+    "skillsDescription": ["Utilisation des composants, services et modules d'Angular", "Gestion de l'état de l'application avec RxJS", "Interaction avec des API RESTful"],
+    "frameworks": ["RxJS", "Angular Material"]
+  },
+  {
+    "language": "C#",
+    "skillsDescription": ["Développement d'applications .NET avec C#", "Utilisation du framework .NET et de la plateforme ASP.NET", "Manipulation avancée des bases de données avec ADO.NET"],
+    "frameworks": [""]
+  },
+  {
+    "language": "SQL",
+    "skillsDescription": ["Conception et optimisation de schémas de bases de données", "Utilisation des fonctions et procédures stockées", "Optimisation des performances des requêtes"],
+    "frameworks": []
+  },
+  {
+    "language": "PHP",
+    "skillsDescription": ["Interaction avec les bases de données MySQL ou PostgreSQL", "Création d'API RESTful"],
+    "frameworks": []
+  },
+  {
+    "language": "JavaScript",
+    "skillsDescription": ["Manipulation du DOM", "Utilisation des frameworks JavaScript tels que Node.js", "Gestion des appels asynchrones avec Promises et async/await"],
+    "frameworks": ["Node.js, Puppeteer"]
+  },
+  {
+    "language": "C",
+    "skillsDescription": ["Manipulation de pointeurs et de structures de données avancées", "Implémentation d'algorithmes complexes", "Optimisation du code pour les performances"],
+    "frameworks": []
+  }
+]

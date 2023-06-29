@@ -1,0 +1,38 @@
+[
+    {
+      "year": "2022",
+      "role": "Développeur",
+      "company": "Université polytechnique des Hauts-de-France",
+      "description": [
+        "Participation à l’événement la nuit de l’info",
+        "Obtention des prix",
+        "Eco-concept de l’entreprise IPPON TECHNOLOGIE",
+        "Eco Index  de l’entreprise CODE-TROOPERS"
+      ]
+    },
+    {
+      "year": "2021- 2023",
+      "role": "CDI Étudiant, équipier de vente",
+      "company": "Carrefour, Denain",
+      "description": [
+        "Travaillant en tant que membre de l'équipe de vente"
+      ]
+    },
+    {
+      "year": "Août 2019",
+      "role": "Intérimaire. Travail à la chaîne",
+      "company": "Sauces et créations, Raillencourt-Sainte-Olle",
+      "description": [
+        "Travaillant dans la chaîne de montage"
+      ]
+    },
+    {
+      "year": "Juillet 2019",
+      "role": "Intérimaire. Réception des marchandises",
+      "company": "Lidl, Sailly-lez-Cambrai",
+      "description": [
+        "Gestion de la réception des marchandises chez Lidl."
+      ]
+    }
+  ]
+

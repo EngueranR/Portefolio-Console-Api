@@ -1,0 +1,44 @@
+{
+  "commands": [
+    {
+      "command": "help",
+      "description": "Affiche une liste de toutes les commandes disponibles",
+      "function": "displayHelp"
+    },
+    {
+      "command": "clear",
+      "description": "Efface l'écran de la console",
+      "function": "clearScreen"
+    },
+    {
+      "command": "experience",
+      "description": "Affiche mon expérience de travail passée",
+      "function": "displayExperience"
+    },
+    {
+      "command": "skill",
+      "description": "Liste de mes compétences techniques et non techniques",
+      "function": "displaySkill"
+    },
+    {
+      "command": "cursus",
+      "description": "Montre mon parcours éducatif",
+      "function": "displayEducation"
+    },
+    {
+      "command": "contact",
+      "description": "Affiche mes coordonnées",
+      "function": "displayContact"
+    },
+    {
+      "command": "disco",
+      "description": "Ambiance disco.",
+      "function": "disco"
+    },
+    {
+      "command": "wallpaper",
+      "description": "Change le fond d'écran",
+      "function": "changeWallpaper"
+    }
+  ]
+}
