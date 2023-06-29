@@ -10,7 +10,7 @@
     </parent>
     <groupId>portefolio</groupId>
     <artifactId>PortefolioConsole</artifactId>
-    <version>1.0.4</version>
+    <version>1.0.6</version>
     <name>PortefolioConsole</name>
     <description>PortefolioConsole</description>
     <properties>

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Portefolio-Console",
+    "description": "Portefolio-Console est une application de ligne de commande pour gérer votre portefolio de projets.",
+    "link": "engueranr.fr"
+  },
+  {
+    "title": "Portefolio-IDE",
+    "description": "Mon portefolio personnalisé sous la forme d'un environnement de développement intégré (IDE). Il offre une interface interactive pour présenter mes projets, compétences et expériences.",
+    "link": "engueranr.fr/prototype/ide"
+  },
+  {
+    "title": "Portefolio-Console-Api",
+    "description": "Portefolio-Console-Api est une interface de programmation (API) pour interagir avec votre portefolio de projets.",
+    "link": ""
+  },
+  {
+    "title": "TokChef",
+    "description": "Projet de deuxième année d'une licence d'informatique.",
+    "link": "https://github.com/EngueranR/TokChef"
+  },
+  {
+    "title": "Ligue1-Api",
+    "description": "Ce projet permet la collecte et l'analyse de données de la Ligue 1 française de football avec le framework Puppeteer.",
+    "link": "https://github.com/EngueranR/Ligue1-Api"
+  },
+  {
+    "title": "Ligue1-Api-Php",
+    "description": "Ce projet permet la collecte et l'analyse de données de la Ligue 1 française de football en Php.",
+    "link": "https://github.com/EngueranR/Ligue1-Api-Php"
+  },
+  {
+    "title": "SimulationVirus",
+    "description": "Projet de la troisième année de licence d'informatique.",
+    "link": "https://github.com/EngueranR/SimulationVirus"
+  }
+]
